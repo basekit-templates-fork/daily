@@ -1,7 +1,7 @@
 {
-	"name":"Interact",
-	"thumbnail":"interact.png",
-	"screenshot":"interact.png",
+	"name":"Daily",
+	"thumbnail":"daily.png",
+	"screenshot":"daily.png",
     "tags": { "en": ["minimal", "clean", "gallery", "blue", "portfolio", "technology", "bright", "images", "modern", "design"] },
     "pageTypes":["home"],
     "templateType":"standard",
@@ -18,8 +18,8 @@
         "Swatch 1": {
             "color1":"#ffffff",
             "color2":"#01b4f0",
-            "color3":"#3295e1",
-            "color4":"#000000",
+            "color3":"#cb2c32",
+            "color4":"#08243A",
             "color5":"#888888",
             "color6":"#ffffff",
             "color7":"#eeeeee"
@@ -27,26 +27,26 @@
         "Swatch 2": {
             "color1":"#ffffff",
             "color2":"#01b4f0",
-            "color3":"#ca1414",
-            "color4":"#000000",
+            "color3":"#cb2c32",
+            "color4":"#2E2603",
             "color5":"#888888",
             "color6":"#ffffff",
             "color7":"#eeeeee"
         },
         "Swatch 3": {
             "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#4F7391",
-            "color4":"#4F7391",
+            "color2":"#F2C811",
+            "color3":"#F2C811",
+            "color4":"#000000",
             "color5":"#888888",
             "color6":"#ffffff",
             "color7":"#eeeeee"
         },
         "Swatch 4": {
             "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#73AD5C",
-            "color4":"#73AD5C",
+            "color2":"#A59F6F",
+            "color3":"#A59F6F",
+            "color4":"#282825",
             "color5":"#888888",
             "color6":"#ffffff",
             "color7":"#eeeeee"
@@ -67,7 +67,7 @@
     "fontSwatch": {
        "title": "Signika",
         "font1": {
-            "font-family": "\"Signika\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "42px",
             "font-weight": "700",
             "line-height": "50px",
@@ -75,7 +75,7 @@
             "letter-spacing": "inherit"
         },
         "font2": {
-            "font-family": "\"Signika\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "36px",
             "font-weight": "700",
             "line-height": "44px",
@@ -83,7 +83,7 @@
             "letter-spacing": "inherit"
         },
         "font3": {
-            "font-family": "\"Signika\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "24px",
             "font-weight": "700",
             "line-height": "32px",
@@ -91,7 +91,7 @@
             "letter-spacing": "inherit"
         },
         "font4": {
-            "font-family": "\"Signika\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "18px",
             "font-weight": "400",
             "line-height": "30px",
@@ -107,7 +107,7 @@
             "letter-spacing": "inherit"
         },
         "font6": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"PT Serif\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "700",
             "line-height": "24px",
@@ -118,7 +118,7 @@
             "background-color-hover": "@color-swatch2"
          },
         "font7": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"PT Serif\", Georgia, serif",
             "font-size": "14px",
             "font-weight": "700",
             "line-height": "24px",
@@ -128,7 +128,7 @@
             "background-color-hover": "darken(@color-swatch3,10%)"
         },
         "font8": {
-            "font-family": "\"Signika\", \"Lucida Grande\", Helvetica, sans-serif",
+            "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "36px",
             "font-weight": "400",
             "line-height": "46px",
@@ -136,7 +136,7 @@
             "letter-spacing": "inherit"
         },
         "font9": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"PT Serif\", Georgia, serif",
             "font-size": "20px",
             "font-weight": "700",
             "line-height": "30px",
@@ -144,7 +144,7 @@
             "letter-spacing": "inherit"
         },
         "font10": {
-            "font-family": "\"Merriweather\", Georgia, serif",
+            "font-family": "\"PT Serif\", Georgia, serif",
             "font-size": "32px",
             "font-weight": "700",
             "line-height": "40px",
