@@ -1,71 +1,77 @@
 {
-	"name":"Daily",
-	"thumbnail":"daily.png",
-	"screenshot":"daily.png",
-    "tags": { "en": ["minimal", "clean", "gallery", "blue", "portfolio", "technology", "bright", "images", "modern", "design"] },
-    "pageTypes":["home"],
-    "templateType":"standard",
-    "images":[
-        "images/gallery/1.jpg", 
-        "images/gallery/2.jpg", 
-        "images/gallery/3.jpg", 
-        "images/gallery/4.jpg", 
-        "images/gallery/5.jpg", 
-        "images/gallery/6.jpg"
-    ],
-    "colorSwatches":
-    {
-        "Swatch 1": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#cb2c32",
-            "color4":"#08243A",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
-        },
-        "Swatch 2": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#cb2c32",
-            "color4":"#2E2603",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
-        },
-        "Swatch 3": {
-            "color1":"#ffffff",
-            "color2":"#F2C811",
-            "color3":"#F2C811",
-            "color4":"#000000",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
-        },
-        "Swatch 4": {
-            "color1":"#ffffff",
-            "color2":"#A59F6F",
-            "color3":"#A59F6F",
-            "color4":"#282825",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
-        },
-        "Swatch 5": {
-            "color1":"#ffffff",
-            "color2":"#01b4f0",
-            "color3":"#4BA5A1",
-            "color4":"#4BA5A1",
-            "color5":"#888888",
-            "color6":"#ffffff",
-            "color7":"#eeeeee"
-        }
+    "name": "Daily",
+    "thumbnail": "daily.png",
+    "screenshot": "daily-screenshot.jpg",
+    "tags": {
+        "en": [
+            "minimal",
+            "clean",
+            "gallery",
+            "blue",
+            "portfolio",
+            "technology",
+            "bright",
+            "images",
+            "modern",
+            "design"
+        ]
     },
-    "images":[
+    "pageTypes": [
+        "home"
+    ],
+    "templateType": "standard",
+    "images": [
         "images/test.jpg"
     ],
+    "colorSwatches": {
+        "Swatch 1": {
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#cb2c32",
+            "color4": "#08243A",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
+        },
+        "Swatch 2": {
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#cb2c32",
+            "color4": "#2E2603",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
+        },
+        "Swatch 3": {
+            "color1": "#ffffff",
+            "color2": "#F2C811",
+            "color3": "#F2C811",
+            "color4": "#000000",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
+        },
+        "Swatch 4": {
+            "color1": "#ffffff",
+            "color2": "#A59F6F",
+            "color3": "#A59F6F",
+            "color4": "#282825",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
+        },
+        "Swatch 5": {
+            "color1": "#ffffff",
+            "color2": "#01b4f0",
+            "color3": "#4BA5A1",
+            "color4": "#4BA5A1",
+            "color5": "#888888",
+            "color6": "#ffffff",
+            "color7": "#eeeeee"
+        }
+    },
     "fontSwatch": {
-       "title": "Signika",
+        "title": "Signika",
         "font1": {
             "font-family": "\"Karla\", Verdana, Geneva, sans-serif",
             "font-size": "42px",
@@ -116,7 +122,7 @@
             "color-hover": "@color-swatch3",
             "background-color": "@color-swatch2",
             "background-color-hover": "@color-swatch2"
-         },
+        },
         "font7": {
             "font-family": "\"PT Serif\", Georgia, serif",
             "font-size": "14px",
